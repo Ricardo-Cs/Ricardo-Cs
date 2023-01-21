@@ -1,25 +1,27 @@
 ### Olá! Eu sou Ricardo Costa, estudante de programação iniciante.
 
-- Técnico em informática para internet (IFAC)
-- Programador Front-end
-- Atualmente estou estudando HTML, CSS e JS
+- Técnico em informática para internet (IFAC) 📚
+- Programador Front-end 💻
+- Atualmente estou estudando HTML, CSS e JS ✍️
 
-### Linguagens de programação
+<!-- 
+### Linguagens de programação 
+-->
 ---
-
-<div style="display: inline-block;">
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
-
-<br>
 
 <div>
   <a href="https://github.com/Ricardo-Cs">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Cs&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
     <img height="160em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Cs&layout=compact&langs_count=7&theme=monokai"/>
   </a>
+</div>
+
+<br>
+
+<div style="display: inline-block;">
+    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 ---
