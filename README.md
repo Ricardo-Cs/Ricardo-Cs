@@ -3,25 +3,18 @@
 - Técnico em informática para internet (IFAC) 📚
 - Programador Front-end 💻
 - Atualmente estou estudando HTML, CSS e JS ✍️
-
-<!-- 
-### Linguagens de programação 
--->
 ---
-
-<div>
-  <a href="https://github.com/Ricardo-Cs">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Cs&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="160em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Cs&layout=compact&langs_count=7&theme=monokai"/>
-  </a>
-</div>
+<!--- Ricardo's stats and top languages -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Cs&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Ricardo's github stats" /></a> ||
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Cs&layout=compact&theme=monokai&hide_border=true" /></a>
+<!--- Stats from: "https://github.com/anuraghazra/github-readme-stats" -->
 
 <br>
 
-<div style="display: inline-block;">
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<div align="center">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 ---
