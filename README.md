@@ -5,8 +5,8 @@
 - Atualmente estou estudando HTML, CSS e JS ✍️
 ---
 <!--- Ricardo's stats and top languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Cs&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Ricardo's github stats" /></a> ||
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Cs&layout=compact&theme=monokai&hide_border=true" /></a>
+<img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Cs&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Ricardo's github stats" /></a> ||
+<img width="360" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Cs&layout=compact&theme=monokai&hide_border=true" /></a>
 <!--- Stats from: "https://github.com/anuraghazra/github-readme-stats" -->
 
 <br>
