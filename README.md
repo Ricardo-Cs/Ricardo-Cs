@@ -1,8 +1,8 @@
 ### Olá! Eu sou Ricardo Costa, estudante de programação iniciante.
 
-- Técnico em informática para internet (IFAC) 📚
-- Programador Front-end 💻
-- Atualmente estou estudando HTML, CSS e JS ✍️
+- Técnico em informática para internet. (IFAC) 📚
+- Desenvolvedor Full-Stack iniciante. 💻
+- Atualmente estudo Javascript e PHP. ✍️
 ---
 <!--- Ricardo's stats and top languages -->
 <div align="center">
