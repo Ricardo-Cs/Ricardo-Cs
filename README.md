@@ -1,8 +1,8 @@
-### Olá! Eu sou Ricardo Costa, estudante de programação iniciante.
+### Hello! I am Ricardo Costa, a beginner programming student.
 
-- Técnico em informática para internet. (IFAC) 📚
-- Desenvolvedor Full-Stack iniciante. 💻
-- Atualmente estudo Javascript e PHP. ✍️
+- Internet Computing Technician (IFAC) 📚
+- Beginner Full-Stack Developer 💻
+- Currently studying JavaScript and Java. ✍️
 ---
 <!--- Ricardo's stats and top languages -->
 <div align="center">
