@@ -1,8 +1,8 @@
-### Hello! I am Ricardo Costa, a beginner programming student.
+### Hello! I am Ricardo Costa, a programming student.
 
 - Internet Computing Technician (IFAC) 📚
-- Beginner Full-Stack Developer 💻
-- Currently studying JavaScript and Java. ✍️
+- Full-stack developer (with a focus on back-end) 💻
+- Currently studying Nodejs and Typescript. ✍️
 ---
 <!--- Ricardo's stats and top languages -->
 <div align="center">
