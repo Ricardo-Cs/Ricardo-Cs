@@ -2,12 +2,12 @@
 
 - Internet Computing Technician (IFAC) 📚
 - Full-stack developer (with a focus on back-end) 💻
-- Currently studying Nodejs and Typescript. ✍️
+- Currently studying Laravel. ✍️
 ---
 <!--- Ricardo's stats and top languages -->
 <div align="center">
-    <img width="460" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ricardo-Cs&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Ricardo's github stats" /></a> ||
-    <img width="360" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ricardo-Cs&layout=compact&langs_count=6&theme=dracula&hide_border=true" /></a>
+    <img width="460" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ricardo-Cs&show_icons=true&include_all_commits=true&theme=dracula" alt="Ricardo's github stats" /> ||
+    <img width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Cs&layout=compact&theme=dracula&hide=html" />
 </div>
 <!--- Stats from: "https://github.com/anuraghazra/github-readme-stats" -->
 
