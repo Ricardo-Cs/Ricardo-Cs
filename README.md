@@ -2,7 +2,7 @@
 
 - Internet Computing Technician (IFAC) 📚
 - Full-stack developer (with a focus on back-end) 💻
-- Currently studying Laravel. ✍️
+- Currently studying Laravel and Node. ✍️
 ---
 <!--- Ricardo's stats and top languages -->
 <div align="center">
