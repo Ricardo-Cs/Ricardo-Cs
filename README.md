@@ -1,8 +1,8 @@
 ### Hello! I am Ricardo Costa, a programming student.
 
 - Internet Computing Technician (IFAC) 📚
-- Full-stack developer (with a focus on back-end) 💻
-- Currently studying Laravel and Node. ✍️
+- Full-stack developer (with a back-end focus). 💻
+- Currently studying Node and Typescript. ✍️
 ---
 <!--- Ricardo's stats and top languages -->
 <div align="center">
