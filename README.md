@@ -1,8 +1,9 @@
-### Hello! I am Ricardo Costa, a programming student.
+### Olá! Sou Ricardo Costa
 
-- Internet Computing Technician (IFAC) 📚
-- Full-stack developer (with a back-end focus). 💻
-- Currently studying Node and Typescript. ✍️
+- **Desenvolvedor Full-Stack** com foco em back-end 💻
+- **Técnico em Informática para a Internet** pelo IFAC 📚
+- **Cursando o curso superior de Sistemas para Internet** no IFAC 🎓
+
 ---
 <!--- Ricardo's stats and top languages -->
 <div align="center">
