@@ -9,8 +9,8 @@ Desenvolvedor Full-Stack com foco em back-end, APIs REST e arquitetura de aplica
 ---
 <!--- Ricardo's stats and top languages -->
 <div align="center">
-    <img height="170cm" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ricardo-Cs&show_icons=true&include_all_commits=true&theme=dracula" alt="Ricardo's github stats" />
-    <img height="170cm" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ricardo-Cs&layout=compact&langs_count=10&theme=dracula&hide=html,php,blade,portugol"/>
+    <img height="170cm" align="center" src="https://github-stats-extended.vercel.app/api?username=Ricardo-Cs&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_latte" alt="Ricardo's github stats" />
+    <img height="170cm" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ricardo-Cs&layout=compact&langs_count=6&theme=catppuccin_latte&hide=html,blade,portugol,css,php"/>
 </div>
 <!--- Stats from: "https://github.com/anuraghazra/github-readme-stats" -->
 
